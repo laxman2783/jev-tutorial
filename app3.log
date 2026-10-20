@@ -1,0 +1,6 @@
+2026-08-16 13:06:05,607 - INFO - trace_id=- span_id=- - hello world - random number: 39
+2026-08-16 13:06:06,359 - INFO - trace_id=- span_id=- - hello world - random number: 41
+2026-08-16 13:06:06,535 - INFO - trace_id=- span_id=- - hello world - random number: 89
+2026-08-16 13:06:06,728 - INFO - trace_id=- span_id=- - hello world - random number: 28
+2026-08-16 13:06:06,951 - INFO - trace_id=- span_id=- - hello world - random number: 67
+2026-08-16 13:06:07,166 - INFO - trace_id=- span_id=- - hello world - random number: 65

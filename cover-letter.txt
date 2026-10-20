@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the AI Architect / Senior Technology Engineer position. With over fourteen years of experience in designing enterprise-scale applications, leading modernization initiatives, and delivering production-grade Generative AI solutions, I bring a strong blend of technical depth, architectural thinking, and hands-on engineering expertise.
+
+During my tenure at Infosys, I have consistently led high-impact digital transformation programs for Fortune 100 clients across healthcare, financial services, and professional services. Most recently, I architected and delivered ARRIA, Aetna’s internal AI chatbot platform that aggregates data from 17 applications to provide real-time operational insights. My contributions—particularly implementing a RAG-based solution using LangChain—reduced cloud infrastructure costs by approximately $2400 annually and eliminated over 240 manual hours per month, directly improving MTTR and MITR for production incidents.
+
+Across multiple engagements, I have demonstrated the ability to modernize legacy systems and build scalable, cloud-native solutions. In the Peregrine program, I led the conversion of a monolithic Angular application into a micro‑frontend architecture using Single‑Spa and Module Federation, improving maintainability and accelerating feature delivery. I have also delivered automation and data-processing solutions using Python, PowerShell, and NodeJS, including a PwC contract validation workflow that reduced manual effort by 10 hours per week.
+
+My recent work in Generative AI includes building RAG pipelines, document intelligence systems, claim categorization engines, and medical appeal summarization tools using Gemini, OpenAI, LangChain, LlamaIndex, and Azure AI services. These solutions have supported critical business operations, improved adjudication accuracy, and scaled to enterprise-level usage—one of which evolved into a multimillion‑dollar program with 150 team members.
+
+I bring a strong foundation in cloud technologies (AWS, Azure, GCP), full-stack development (NodeJS, Angular, React, Python), API design, and architectural best practices. Equally important, I have led teams, mentored engineers, and collaborated closely with business stakeholders to deliver solutions that are technically sound, cost‑efficient, and aligned with organizational goals.
+
+I am excited about the opportunity to contribute my experience in AI engineering, solution architecture, and enterprise modernization to your organization. I would welcome the chance to discuss how my background and passion for emerging technologies can support your strategic initiatives.
+
+Thank you for your time and consideration.
